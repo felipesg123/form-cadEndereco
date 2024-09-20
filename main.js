@@ -13,3 +13,10 @@ const limparformulario = () => {
 const eNumero = (numero) => /^[0-9]+$/.test(numero);
 // verifica o tamanho do cep
 const sepvalido = (cep) => cep.length == 8 && eNumero(cep);
+
+//função para preencher campos relasionados a cep
+const  preencherForfmulario = (endereco) =>{
+    document.getElementById('inputRua').value = endereco.logradouro;
+    document.getElementById('inputbairro').value = endereco.localidade;
+    document.getElementById('inputestado').value = endereco.uf;
+}
