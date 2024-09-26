@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    background-color: #f0f0f0; /* Cor de fundo da página */
+  }
+  
+  body {
+    width: 60%; /* Defina a largura que desejar para o body */
+    height: 70%; /* Defina a altura do body */
+    background-color: #fff; /* Cor de fundo do body */
+    border-radius: 20px; /* Arredonda os cantos do body */
+    box-shadow: 0 0 10px rgba(51, 51, 51, 0.1); /* Adiciona sombra ao redor do body */
+    padding: 20px; /* Espaçamento interno */
+    box-sizing: border-box; /* Garante que o padding seja incluído na largura/altura */
+  }
+  
