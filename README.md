@@ -37,20 +37,39 @@ este é um projeto de tala de cadastro que realiza o preenchimento automatico do
 
 ### Tecnologias Utilizadas
 
-1_ **html 5:** para a base do projeto
-2_ **bootstrap 5:** para o corpo da pagina e estilisação da pagina
-3_ **css:** para estilização basica da pagina
-4_**java script:**para as verificações e para a comsulta da api via cep 
+
+1. **html 5:** para a base do projeto
+
+2. **bootstrap 5:** para o corpo da pagina e estilisação da pagina
+
+3. **css:** para estilização basica da pagina
+
+4. **java script:**para as verificações e para a comsulta da api via cep
+
 
 ### funções utilizadas
 
 1_ **async:** Quando uma função assíncrona é chamada, ela retorna uma Promise. Quando a função assíncrona retorna um valor, a Promise será resolvida com o valor retornado. Quando a função assíncrona lança uma exceção ou algum valor, a Promise será rejeitada com o valor lançado.
 
 
+
+
 2_ **hasOwnProperty:** Todo objeto descendente de Objectherda o método hasOwnProperty. Este método pode ser usado para determinar se um objeto possui uma propriedade especificada como propriedade direta do objeto.
 
-3_ **await:** A expressão await faz a execução de uma função async pausar, para esperar pelo retorno da Promise, e resume a execução da função async quando o valor da Promise é resolvido. Ele então retorna o valor final da Promise. Se esse valor não for uma Promise, ele é convertido para uma Promise resolvida.
 
+
+3_ **await:** A expressão await faz a execuç ão de uma função async pausar, para esperar pelo retorno da Promise, e resume a execução da função async quando o valor da Promise é resolvido. Ele então retorna o valor final da Promise. Se esse valor não for uma Promise, ele é convertido para uma Promise resolvida.
+
+
+
+4_ **fetch:** A API Fetch fornece uma interface JavaScript para acessar e manipular partes do pipeline HTTP, tais como os pedidos e respostas. Ela também fornece o método global fetch() que fornece uma maneira fácil e lógica para buscar recursos de forma assíncrona através da rede.
+Este tipo de funcionalidade era obtida anteriormente utilizando XMLHttpRequest. Fetch fornece uma alternativa melhor que pode ser facilmente utilizada por outras tecnologias como Service Workers. Fetch também provê um lugar lógico único para definir outros conceitos relacionados ao protocolo HTTP como CORS e extensões ao HTTP.
+
+
+
+5_ **addres:**  O elemento HTML <address> fornece informações de contato para seu ancestral <article> ou <body> mais próximo; no segundo caso, ele se aplica ao documento inteiro.
+A informação de contato fornecida por um conteúdo do elemento <address> pode tomar qualquer forma que é apropriada para o contexto, e pode incluir qualquer tipo de informação de contato necessária, como endereço físico, URL, email, telefone, mídia social, coordenadas geográficas, por aí vai. Deve incluir o nome da pessoa, grupo, ou organização para qual as informações de contato se referem.
+<address> pode ser usado em uma variedade de contextos, como fornecer informação de contato de uma empresa no header da página, ou indicar o autor de um artigo incluindo um elemento <address> dentro do <article>.
 
 ### Fontes Consultadas 
 
