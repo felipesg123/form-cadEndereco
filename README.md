@@ -2,7 +2,7 @@
 
 ## ⚜️ Índice ⚜️
 
-![cadastro preview ](cadastro.PNG.png)
+![cadastro preview ](cadastro.PNG)
 ---
 
 [Descrição](#descri%C3%A7%C3%A3o)
