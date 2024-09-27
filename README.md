@@ -2,7 +2,7 @@
 
 ## ⚜️ Índice ⚜️
 
-![image info](tala_de_cadastro.PNG.png)
+![cadastro preview ](cadastro.PNG.png)
 ---
 
 [Descrição](#descri%C3%A7%C3%A3o)
@@ -14,8 +14,6 @@
 [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 [Fontes Consultadas](#fontes-consultadas)
-
-[Autor](#autor)
 
 
 ### descrição 
@@ -31,7 +29,7 @@ este é um projeto de tala de cadastro que realiza o preenchimento automatico do
 
 1. **preenchimento de campos:** au celecionar o cep ele fais o preenchimento automatico dos capo de endereço
 
-2. **verifica se o cep tem 8 digitos:** pro meio de uma exprção regular que valida para saber se o cep possui 8 digitos
+2. **verifica se o cep tem 8 digitos:** por meio de uma expreção regular que valida para saber se o cep possui 8 digitos
 
 3. **verifica se o cep é valido :** por meio de outra expresão regular que verufica se o cep e valido 
 
